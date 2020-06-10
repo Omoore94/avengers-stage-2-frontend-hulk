@@ -5,4 +5,4 @@
 
 - [@Abdulsalam](https://github.com/abdulsalamcodes)
 
--- [@Omoore](https://github.com/Omoore94)
+- [@Omoore](https://github.com/Omoore94)
